@@ -4,15 +4,15 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **dinirangapremanayake@gmail.com**
+- 📫 How to reach me **dinirangapremanayake@gmail.com**   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/diniranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diniranga" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16494636" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16494636" height="30" width="40" /></a>
-<a href="https://kaggle.com/diniranga premanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="diniranga premanayake" height="30" width="40" /></a>
-<a href="https://fb.com/diniranga premanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diniranga premanayake" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/diniranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="diniranga" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/dinirangapremanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="diniranga premanayake" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100011634585536" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diniranga premanayake" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Diniranga?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="diniranga" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
