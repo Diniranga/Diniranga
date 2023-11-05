@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diniranga Premanayake</h1>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diniranga&label=Profile%20views&color=0e75b6&style=flat" alt="diniranga" /> </p>
+
 
 - 🌱 I’m currently learning **Machine Learning**
 
