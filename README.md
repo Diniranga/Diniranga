@@ -20,26 +20,26 @@
 
 ## 🚀 About Me
 
-- 🍃 **Java & Spring Boot is my home turf** — ~2 years building production-grade **Java 21 / Spring Boot** backends (Spring Security, Spring Data JPA/Hibernate, Flyway, Testcontainers) across **3+ live products**, from secure multi-tenant marketplaces to broker-less, Postgres-coordinated micro-SaaS pipelines.
-- 🧩 Deep in **distributed-systems design** — state machines, atomic job claiming (`FOR UPDATE SKIP LOCKED`), exactly-once processing, and event-driven coordination.
+- 🍃 **Java & Spring Boot is my home turf** - ~2 years building production-grade **Java 21 / Spring Boot** backends (Spring Security, Spring Data JPA/Hibernate, Flyway, Testcontainers) across **3+ live products**, from secure multi-tenant marketplaces to broker-less, Postgres-coordinated micro-SaaS pipelines.
+- 🧩 Deep in **distributed-systems design** - state machines, atomic job claiming (`FOR UPDATE SKIP LOCKED`), exactly-once processing, and event-driven coordination.
 - 🔐 Strong in **JWT / OAuth 2.0 security**, role-based access control, and compliance-focused architecture (audit logging, rate limiting, soft-delete retention).
-- 🤖 Hands-on with **LLM / AI integration** — OpenAI, RAG, NL2SQL, embeddings & vector search.
+- 🤖 Hands-on with **LLM / AI integration** - OpenAI, RAG, NL2SQL, embeddings & vector search.
 - 🏗️ Founder and sole engineer of **[Nudge](https://usenudge.io)**. I own features end to end and favour clean, well-tested, scalable architecture.
-- 📫 Reach me at **dinirangapremanayake@gmail.com** — open to **Backend / Software Engineering / AI** roles.
+- 📫 Reach me at **dinirangapremanayake@gmail.com** - open to **Backend / Software Engineering / AI** roles.
 
 ---
 
 ## 💼 Experience
 
-**Software Engineer (Java)** — *ByteQuotient Solutions* · Remote · `Sep 2025 – Present`
+**Software Engineer (Java)** - *ByteQuotient Solutions* · Remote · `Sep 2025 – Present`
 - Building the backend of a multi-party aid-distribution platform from the ground up in **Java 21 / Spring Boot 4** on a **hexagonal architecture spanning 8 feature modules**.
 - Implemented **JWT auth on OAuth 2.0** bearer-token patterns (issuance, validation, revocation, refresh) with RBAC and a device-bound identity layer.
 - Engineered security & compliance: rate limiting, full audit-trail logging, soft-delete retention across **40+ tables**, and AWS S3 secure file exchange with presigned URLs.
 
-**Associate Software Engineer** — *Neura Intelligence (Pvt) Ltd* · `Jul 2024 – Dec 2024`
-- Built an **end-to-end voice-driven PDF auto-fill system** — streaming audio to Google Speech-to-Text for real-time transcription, concurrently chunking to AWS S3, then mapping content to structured fields with **OpenAI**.
+**Associate Software Engineer** - *Neura Intelligence (Pvt) Ltd* · `Jul 2024 – Dec 2024`
+- Built an **end-to-end voice-driven PDF auto-fill system** - streaming audio to Google Speech-to-Text for real-time transcription, concurrently chunking to AWS S3, then mapping content to structured fields with **OpenAI**.
 
-**Software Engineer Intern** — *Neura Intelligence (Pvt) Ltd* · `Jan 2024 – Jun 2024`
+**Software Engineer Intern** - *Neura Intelligence (Pvt) Ltd* · `Jan 2024 – Jun 2024`
 - Implemented authentication & authorization with **AWS Cognito**; designed a **MongoDB** data layer plus S3 storage for binary content.
 
 ---
@@ -48,10 +48,10 @@
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| **[Nudge](https://usenudge.io)** — Customer Re-Engagement Platform (Micro-SaaS) | Conversation-aware re-engagement pipeline (lapse detection → AI content → send → reply handling). **Broker-less multi-service coordination over Postgres only**, with **exactly-once processing** via state machines + atomic row claiming. Powering 2 pilot businesses. | `Java 21` `Spring Boot` `PostgreSQL` `ShedLock` |
-| **SRP-UA** — Multi-Party Aid-Distribution Platform *(ByteQuotient)* | Backend built ground-up to connect donor organisations with relief recipients across a full order lifecycle. **Hexagonal architecture across 8 feature modules**, JWT/OAuth 2.0 auth with device-bound identity, rate limiting, audit-trail logging, and soft-delete retention across **40+ tables**. | `Java 21` `Spring Boot 4` `PostgreSQL` `AWS S3` |
-| **[VoxDB](https://voxdb.dev)** — AI Natural-Language Database Chat Widget | **NL2SQL** service converting natural language into injection-safe SQL via OpenAI, reaching **95%+ accuracy** with vector-search refinement. Multi-tenant with RAG-based query learning; shipped as an npm React widget. | `FastAPI` `React` `OpenAI` `Vector DB` |
-| **OpenAI Voice-Driven PDF Filler** *(Neura Intelligence)* | End-to-end voice-driven PDF auto-fill system for police-report generation — streams audio to Google Speech-to-Text for real-time transcription, concurrently chunks/uploads to AWS S3, then maps transcribed content to structured fields with **OpenAI**. | `FastAPI` `OpenAI` `Google STT` `AWS S3` |
+| **[Nudge](https://usenudge.io)** - Customer Re-Engagement Platform (Micro-SaaS) | Conversation-aware re-engagement pipeline (lapse detection → AI content → send → reply handling). **Broker-less multi-service coordination over Postgres only**, with **exactly-once processing** via state machines + atomic row claiming. Powering 2 pilot businesses. | `Java 21` `Spring Boot` `PostgreSQL` `ShedLock` |
+| **SRP-UA** - Multi-Party Aid-Distribution Platform *(ByteQuotient)* | Backend built ground-up to connect donor organisations with relief recipients across a full order lifecycle. **Hexagonal architecture across 8 feature modules**, JWT/OAuth 2.0 auth with device-bound identity, rate limiting, audit-trail logging, and soft-delete retention across **40+ tables**. | `Java 21` `Spring Boot 4` `PostgreSQL` `AWS S3` |
+| **[VoxDB](https://voxdb.dev)** - AI Natural-Language Database Chat Widget | **NL2SQL** service converting natural language into injection-safe SQL via OpenAI, reaching **95%+ accuracy** with vector-search refinement. Multi-tenant with RAG-based query learning; shipped as an npm React widget. | `FastAPI` `React` `OpenAI` `Vector DB` |
+| **OpenAI Voice-Driven PDF Filler** *(Neura Intelligence)* | End-to-end voice-driven PDF auto-fill system for police-report generation - streams audio to Google Speech-to-Text for real-time transcription, concurrently chunks/uploads to AWS S3, then maps transcribed content to structured fields with **OpenAI**. | `FastAPI` `OpenAI` `Google STT` `AWS S3` |
 | **[Spring Boot 3.0 JWT Auth](https://github.com/Diniranga/Spring-Boot-3.0-JWT-Authentication-Authorization)** ⭐ | Open-source reference implementation of secure authentication & authorization with JWT and Spring Security. | `Java` `Spring Boot` |
 
 ---
@@ -76,11 +76,11 @@
 
 ## 🎓 Education & Achievements
 
-- 🎓 **B.Sc. (Hons) in Information Technology** — University of Moratuwa, Sri Lanka *(Jun 2021 – Jun 2025)*
-- 🏆 **Finalist** — ComBank Singlish GPT Model Competition (GPT-powered Singlish support chatbot)
-- 📜 Supervised Machine Learning & Advanced Learning Algorithms — **DeepLearning.AI**
-- 📜 Vector Database Fundamentals — **IBM**
+- 🎓 **B.Sc. (Hons) in Information Technology** - University of Moratuwa, Sri Lanka *(Jun 2021 – Jun 2025)*
+- 🏆 **Finalist** - ComBank Singlish GPT Model Competition (GPT-powered Singlish support chatbot)
+- 📜 Supervised Machine Learning & Advanced Learning Algorithms - **DeepLearning.AI**
+- 📜 Vector Database Fundamentals - **IBM**
 
 ---
 
-<p align="center"><i>Thanks for visiting — let's build something great together! 🚀</i></p>
+<p align="center"><i>Thanks for visiting - let's build something great together! 🚀</i></p>
