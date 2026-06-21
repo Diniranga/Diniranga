@@ -49,10 +49,10 @@
 | Project | Description | Stack |
 | --- | --- | --- |
 | **[Nudge](https://usenudge.io)** — Customer Re-Engagement Platform (Micro-SaaS) | Conversation-aware re-engagement pipeline (lapse detection → AI content → send → reply handling). **Broker-less multi-service coordination over Postgres only**, with **exactly-once processing** via state machines + atomic row claiming. Powering 2 pilot businesses. | `Java 21` `Spring Boot` `PostgreSQL` `ShedLock` |
+| **SRP-UA** — Multi-Party Aid-Distribution Platform *(ByteQuotient)* | Backend built ground-up to connect donor organisations with relief recipients across a full order lifecycle. **Hexagonal architecture across 8 feature modules**, JWT/OAuth 2.0 auth with device-bound identity, rate limiting, audit-trail logging, and soft-delete retention across **40+ tables**. | `Java 21` `Spring Boot 4` `PostgreSQL` `AWS S3` |
 | **[VoxDB](https://voxdb.dev)** — AI Natural-Language Database Chat Widget | **NL2SQL** service converting natural language into injection-safe SQL via OpenAI, reaching **95%+ accuracy** with vector-search refinement. Multi-tenant with RAG-based query learning; shipped as an npm React widget. | `FastAPI` `React` `OpenAI` `Vector DB` |
-| **[Parking Layout Generator](https://github.com/Diniranga/Rule_cGAN_Parking_Layout_Generation)** — Research | Conditional GAN generating optimized parking layouts from condition maps; custom adversarial + condition-consistency losses. | `Python` `PyTorch` `cGAN` |
-| **[Spring Boot 3.0 JWT Auth](https://github.com/Diniranga/Spring-Boot-3.0-JWT-Authentication-Authorization)** | Reference implementation of secure authentication & authorization with JWT and Spring Security. | `Java` `Spring Boot` |
-| **[Simple RAG (MongoDB + OpenRouter)](https://github.com/Diniranga/Simple-RAG-with-MongoDB-and-OpenRouter)** | Clean reference implementation of a Retrieval-Augmented Generation pipeline. | `Python` `LLM` |
+| **OpenAI Voice-Driven PDF Filler** *(Neura Intelligence)* | End-to-end voice-driven PDF auto-fill system for police-report generation — streams audio to Google Speech-to-Text for real-time transcription, concurrently chunks/uploads to AWS S3, then maps transcribed content to structured fields with **OpenAI**. | `FastAPI` `OpenAI` `Google STT` `AWS S3` |
+| **[Spring Boot 3.0 JWT Auth](https://github.com/Diniranga/Spring-Boot-3.0-JWT-Authentication-Authorization)** ⭐ | Open-source reference implementation of secure authentication & authorization with JWT and Spring Security. | `Java` `Spring Boot` |
 
 ---
 
