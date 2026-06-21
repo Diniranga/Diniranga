@@ -1,9 +1,13 @@
 <h1 align="center">Hi, I'm Diniranga Premanayake 👋</h1>
 
 <p align="center">
-  <b>Software Engineer · Java / Spring Boot · Distributed Systems & AI Integration</b><br>
-  Backend-focused engineer shipping production-grade Java 21 / Spring Boot systems · Founder of <a href="https://usenudge.io">Nudge</a><br>
+  <b>Java / Spring Boot Engineer 🍃 · Distributed Systems & AI Integration</b><br>
+  Backend specialist shipping production-grade <b>Java 21 / Spring Boot</b> systems · Founder of <a href="https://usenudge.io">Nudge</a><br>
   📍 Balangoda, Sri Lanka 🇱🇰
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Core_Specialty-Java_·_Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Core Specialty: Java & Spring Boot"/>
 </p>
 
 <p align="center">
@@ -18,7 +22,7 @@
 
 ## 🚀 About Me
 
-- 💻 Backend-focused Software Engineer with **~2 years shipping production-grade Java 21 / Spring Boot systems** across **3+ live products** — from secure multi-tenant marketplaces to broker-less, Postgres-coordinated micro-SaaS pipelines.
+- 🍃 **Java & Spring Boot is my home turf** — ~2 years building production-grade **Java 21 / Spring Boot** backends (Spring Security, Spring Data JPA/Hibernate, Flyway, Testcontainers) across **3+ live products**, from secure multi-tenant marketplaces to broker-less, Postgres-coordinated micro-SaaS pipelines.
 - 🧩 Deep in **distributed-systems design** — state machines, atomic job claiming (`FOR UPDATE SKIP LOCKED`), exactly-once processing, and event-driven coordination.
 - 🔐 Strong in **JWT / OAuth 2.0 security**, role-based access control, and compliance-focused architecture (audit logging, rate limiting, soft-delete retention).
 - 🤖 Hands-on with **LLM / AI integration** — OpenAI, RAG, NL2SQL, embeddings & vector search.
